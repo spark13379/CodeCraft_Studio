@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "MVP App", "status": "Em desenvolvimento" },
+  { "id": 2, "name": "Site Startup", "status": "Concluído" },
+  { "id": 3, "name": "Sistema Interno", "status": "Planejado" }
+]
